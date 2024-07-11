@@ -21,7 +21,7 @@ class copyCon
             a9 = aa9;
         }
 
-        // copyCon Constructor
+        // Copy Constructor
         copyCon(const copyCon &a)
         {
             a1 = a.a1;
