@@ -3,7 +3,7 @@ using namespace std;
 
 struct Car
 {
-    // Attributes
+    //  Attributes
     string name;
     string color;
     int maxSpeed;
